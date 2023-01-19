@@ -1,0 +1,6 @@
+index,company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,price
+1,Volkswagen,Sedan,300mm,4m,,4,3000,20,1500000
+2,Mercedes,Coupe,200mm,5m,,4,4000,15,1000000
+3,Suzuki,Hatchbag,250mm,3.5m,,4,5000,16,1600000
+4,Toyota,4x4,350mm,6m,,6,5500,18,1300000
+5,Nissan,Sedan,300mm,4m,,6,4500,21,800000
